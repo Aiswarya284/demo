@@ -1,0 +1,10 @@
+Portions of this document are intended solely as an outline of methodologies to be followed during the
+maintenance and operation of the E3 I/O™ Modules equipment. It is not intended as a step-by-step guide or a
+complete set of all procedures necessary and sufficient to complete all operations.
+While every effort has been made to ensure that this document is complete and accurate at the time of release, the
+information that it contains is subject to change. Red Lion Controls is not responsible for any additions to or
+alterations of the original document. Industrial networks vary widely in their configurations, topologies, and traffic
+conditions. This document is intended as a general guide only. It has not been tested for all possible applications,
+and it may not be complete or accurate for some situations.
+Users of this document are urged to heed warnings and cautions summarized at the front of the document, such as
+electrical hazard warnings.
