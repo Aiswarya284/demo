@@ -7,10 +7,8 @@ alterations of the original document. Industrial networks vary widely in their c
 conditions. This document is intended as a general guide only. It has not been tested for all possible applications,
 and it may not be complete or accurate for some situations.
 Users of this document are urged to heed warnings and cautions summarized at the front of the document, such as
-
-electrical hazard warnings.
-=======
 electrical hazard warnings.
 
 edit the main branch and additional branch
 
+updating the branch files for pull request and merge with main branch
